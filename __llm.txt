@@ -1,0 +1,406 @@
+# The Darkness Steals The Light
+Author: Mark Kirkbride
+
+## Entities
+* Land of the Dragon: The broader territory encompassing the jungle, mountains, and the village of Goro.
+* The Needles: The location of deep vaults where the Athanas Stone was previously kept by the Order of The One.
+* Madon: A claimant mentioned as making a bold move for the throne of Galt in King Eiden's absence.
+* The Beggar King: A vengeful figure leading an underground army of peasants and outcasts planning to burn Thiel.
+* Amos: A royal figure identified in the title of chapter twenty-one.
+* Nubina: An associate of Danan who is observed in a state of high emotional distress following the events in the cavern.
+* Thirteen Hells: A dangerous realm where darkness prevails, housing passages to other dimensions and inhabited by shadow demons.
+* Ana: A dragon lord who takes the form of a shadow dragon and attempts to defeat Lord Varesh within his sacred domain.
+* Avos: The realm or territory that Lord Varesh is sworn to protect as Guardian of Mankind.
+* Lord Varesh: A figure who dispatched riders and a sealed missive to the Kabel Monastery.
+* Jain: An associate of Danan who emerges from the cavern with Nubina and informs Danan of his father's fate.
+* Danan: The last of the Elim who undergoes a profound metaphysical awakening, gaining immense power and experiencing physical transformations including heterochromia.
+* Morana: The consort of Prince Madon who hired the Colligi family to assassinate the king for gold.
+* Anut: An ancient woman gifted with divine foresight who traded the map of Eldriven to Lord Varesh.
+* The Shaman: Morana's father who guides her during the hunt and ritual before being fatally struck during a supernatural event.
+* Mount Gorochen: A mountain spire that is completely destroyed by a shockwave of energy released by Danan.
+* Goro: A desolate region of black boulders and scorched earth previously destroyed by Ana.
+* River Gongal: A roaring river located near the jungle hunting grounds below Mount Gorochen.
+* Nyegyo: An icy mountain range that extends from the summit of Mount Gorochen down toward the tropical jungle.
+* Queen Eiwelf: The Queen of Galt who is the subject of a terminal ritual and invasive surgical procedure intended to birth an ancient entity.
+* The Black Mage: A powerful individual wearing a horned stag mask who wields arcane energy to manipulate reality.
+* King Eiden: The former King of Galt whose death by Thielian hands is announced to the public.
+* High Priest Anon: The somber head of the Kabel Monastery who interprets celestial omens and receives urgent messages.
+* Galt: A cold and grim land currently targeted for conquest by the Thielian forces.
+* Thiel: An expansive and powerful nation preparing for a major war of conquest.
+* Kabel Monastery: A white monastery perched atop the Needle peaks, serving as a sanctuary between heaven and earth.
+* Eldriven: A portal to other realms that is destroyed during the magical explosion caused by Lord Varesh.
+* The Prince of Galt: A royal leader mobilizing armies and acting as a vessel for an adversarial force.
+* Prince Madon: The son and heir of King Eiden, anticipated to be an adversary to King Adal's military and political ambitions.
+* Captain Lorllen: The unwavering protector of the Kabel Monastery who reports to High Priest Anon.
+* The One: An ethereal force or deity associated with the creation of star-glass artifacts and the power of the Elim.
+* The Great Hall: A large circular space within the monastery containing a massive basalt throne and murals of The One.
+* The Great Moon: A bright lunar body that provides argent light to the mountainous landscape.
+* Dead Moon: A celestial entity causing oppressive darkness and freezing time across the land.
+* Aldard: Algwain's previous superior, known as the great bear, who was killed during a conflict with a black-armored knight.
+* Algwain: Stationed at Merefen, he observes the dark omens and orders a warning sent to General Aiseld regarding the impending war.
+* General Aiseld: The brother of the late King Eiden and the intended recipient of Algwain's message regarding Galt's fall.
+* Tall Tower Guard: A watchman at Castle Galt who monitors the southern courtyard and complains about the freezing weather.
+* Short Guard: A guard at Castle Galt who chides his companion for complaining while patrolling the round turret perimeter.
+* King Malech: The former king whose obsidian sword hangs in Prince Madon's chamber.
+* King Adal: The authoritative ruler leading the Thielian army to invade and wipe out the Galtish people.
+* The Umbals: Shadow demons that slither through Prince Madon's chamber to consume remains.
+* Ossan: A mining colony and trading hub located in a stone basin, known as the last eastern outpost.
+* Castle Galt: The site of the mass gathering where the kingdom pledges fealty to Madon and where the population begins to suffer from a corrupting influence.
+* Nirtesh: An elderly father traveling through the Benguire Mountain pass, guided by a celestial nebula.
+* Jorgon: A knight with a Thielian accent who assists in the transport of Danan while using unprofessional language.
+* Captain Jon: A captain who prefers dry land and is tasked with escorting the Baruci informants back to Thiel.
+* Cavern: The location where Jain and Nubina were situated and which subsequently suffers structural collapse.
+* The Valley: A lush, forested area beneath the clouds where Danan is lowered via a pulley system.
+* Monastery: The humble location where Danan lived a simple life before his journey.
+* The Old Goat: An inn mentioned by the soldiers as a planned stop for food and rest.
+* Lord Allerdale: A ginger-bearded lord who pledges his unwavering loyalty and his domain to Prince Madon.
+* Lady Lochber: The sole woman on the Accession Council present during the King's address to the people.
+* Lord Luglow: A young noble who participates in the unity declaration for the new king at Castle Galt.
+* Lord Stenness: A former nobleman who undergoes a violent biological transformation and corruption into the first Umghul, serving as a captain for Ana.
+* Lord Gosen: Madon's uncle who opposes the claim and is subjected to lethal physical trauma followed by reanimation.
+* The Black General: A silent, armored figure who stands behind King Madon and manages the gathered forces.
+* Lord Aiseld: The former ruler of Merefen who was killed during a brutal confrontation with the Black General after refusing to acknowledge King Madon.
+* The Umbal: Demonic entities forged from the void that serve Madon and are capable of infesting human hosts.
+* Lochber: The territory governed by Lady Lochber.
+* Luglow: A region known for its gold forges and military strength.
+* Stenness: A region containing gold and coal mines, represented by Lord Stenness.
+* The Great City of Thiel: A prosperous and opulent city situated on a hilltop, featuring palatial villas and the Thielian Colosseum.
+* Thielian Colosseum: A massive limestone arena that hosts the summer games and lethal spectacles for Thiel's nobility.
+* The Smith: A powerful, muscular man who participated in a lethal duel to settle a blood feud.
+* The Butcher: A wiry, young fighter who engaged in mortal combat with the smith in the colosseum.
+* Lady Nuria: A noblewoman from Aradesh who is engaged to King Eiden and is being introduced to the Thielian court.
+* Jon: The Captain of Lord Varesh’s household guard who emerged victorious in the Game of Roses.
+* Kingdom of Thiel: The kingdom ruled by King Adal, characterized by fertile meadows and golden grains.
+* Cecil: The assistant to Lord Varesh who originally communicated the terms of employment to Jain.
+* Scullery Maid: A young female staff member who assists with the preparation of Danan's bath and observes his reaction to her presence.
+* Lord Varesh's Estate: A grand property featuring vaulted bedchambers, a bathing room with a marble spa, and lush gardens filled with exotic flora.
+* Winter Isles: A remote geographic region that serves as the planned destination for Lord Varesh's voyage.
+* Heb: A vast red desert region featuring a blue lagoon, mangroves, and home to the followers of Anut.
+* General Aldard: A veteran commander of the Galtish troops who leads his men through the moors and initiates a tactical defense against supernatural forces.
+* Captain Algwain: Aldard's second-in-command who takes control of the surviving unit and manages their retreat to a defensive position.
+* Eindred: A member of Algwain's small group present at Merefen during the celestial event.
+* Eifear: A soldier standing with Algwain who witnesses the fallout of Galt's political shift.
+* Small Girl: An orphaned child discovered by the Galtish survivors within a remote farmhouse.
+* The Moors: The frozen, pitch-black wasteland outside the gates of Merefen where the Umbal horde assembles.
+* Standing Stones of Galt: An ancient megalithic stone circle where the Galtish troops are ambushed by supernatural entities.
+* Small Farmhouse: A run-down structure where the last three survivors of the Galtish unit establish a final defensive position.
+* House of Varesh: The grand residence of Lord Varesh, featuring a great hall adorned with mystical mosaics and historical murals.
+* Kabel: The celestial throne of The One mentioned in the historical murals.
+* The Slaughters: A labyrinthine area of the city characterized by grime, crime, and the site of a targeted insurrection against the city watch.
+* Royal Estate: A place mentioned as the source of the venison haunch.
+* Coast of Heb: A maritime region known for producing deep-sea lobsters.
+* Broken Bay: A coastal area mentioned as the source of the shucked oysters.
+* Thielian flats: A geographic area mentioned as the source of the roasted lamb.
+* The little girl: A juvenile non-combatant rescued by Algwain from a massacre site; she is noted to be suffering from significant psychological trauma.
+* Umbal: A pack of shadow creatures that serve Ana and are vaporized by the magical power of Lord Varesh.
+* Farmhouse: A charred and destroyed residence that serves as the site of a violent massacre and the initial rescue of the survivor.
+* Merefen: A rampart location held by Algwain that remains relatively empty while the rest of the kingdom gathers at the main castle.
+* Moors of Galt: The open landscape where the group is pursued and eventually protected by Nirtesh's defensive actions.
+* Violet: A woman working at The Rose & Cock who receives messages via rat and coordinates the seating of the city watch.
+* Lady Eicard: A minor noble mentioned in a cautionary tale regarding the dangers of mistreating the Baruci.
+* The Rose & Cock: A social establishment where Lord Varesh waited to meet with Jain.
+* The Great Palace of Thiel: A golden, majestic building constructed of white stone and marble that dominates the capital's skyline.
+* The Great Temple of The One: The central place of worship for the Order of The One, suggested as a location for a royal wedding blessing.
+* The Great Market of Thiel: A vibrant market where the elite of Thiel shop for luxury goods and fine foods.
+* The Planks: A location where Lord Varesh and the Colligi family are reportedly staying under protection.
+* The Oasis: A desert camp featuring a pool and the oracle's tent where the group rested before traveling by river.
+* Bank of Thiel: The central repository of the kingdom's wealth, now under the control of Lord Elrich to fund the war.
+* Elsan: An ancient labyrinth of tunnels located deep beneath the foundations of Thiel.
+* Percy: A lanky, gaunt man with oversized teeth who handles logistics and weapon distribution for the underworld army.
+* Old Mags: A frail and impoverished elderly man who successfully appeals to the Beggar King's sense of mercy for food and housing.
+* The Nareshi Slaver: A merchant from Naresh who is subjected to severe punitive discipline by the Beggar King for attempting to traffic subjects from the king's slums.
+* Olwin: A copper-haired representative of Prince Madon who delivers gold and a ceremonial dagger to secure the Beggar King's support in an upcoming war.
+* King Madon: The leader and deity figure to whom the transformed Umghul army owes its allegiance.
+* Queen Morana: Also known as the Blessed Mother, she stands beside King Madon during the royal address, appearing as a divine and majestic figure.
+* Naresh: A distant western region known for its silk-wearing merchants and trade in pale-skinned subjects.
+* Rose and Cock: A surface-level establishment in Thiel that serves as a hub for the Beggar King's rats and operatives.
+* The Baruci: A group that arrives at the Beggar King's chamber for an audience at the end of the chapter.
+* Porker: A guard who encounters a scene of significant violence and a former acquaintance in the valley of the moors.
+* The child: A young girl rescued by Algwain's party from a farmstead that had been subjected to a violent attack.
+* Lady Aiseld: The wife of Lord Aiseld who disappeared while gathering flowers several days prior to Algwain's arrival.
+* Adela: The daughter of Lord Aiseld who went missing alongside her mother near Oldren Glenn.
+* Castle of Merefen: A dreary stone castle currently experiencing a period of unrest and leadership vacuum.
+* Standing Stones: The location where Algwain's men were engaged by hostile entities while attempting to return home.
+* Oldren Glenn: The site where Lady Aiseld and her daughter were last seen before their disappearance.
+* Queen Aina: The consort of King Adal who is expected to mentor Nuria in court social circles.
+* Cardinal Lehon: A high-ranking cleric who serves the Black Mage within the Temple of The One.
+* Great Palace Garden: The setting for the season's final masquerade ball, featuring a maze and vibrant musical ensembles.
+* Aradesh: Nuria's homeland, noted for its fine vineyards.
+* Tivania: A foreign land mentioned as the origin of some prisoners who were purged from the regiment.
+* Nuria: An assassin identified by a recovered hairpin who is accused of killing King Eiden and several armed guards.
+* Great Palace: The location where King Adal hosts King Eiden and conducts administrative meetings on the eastern wing balcony.
+* Black General: A formidable mounted warrior who executes Elfred and carries his remains toward Castle Galt.
+* Elfred: The last of Lord Aiseld's line who was targeted for execution following the fall of the castle.
+* The Girl: A child held by Nirtesh and later Eindred for protection during the conflict on the ramparts.
+* Great Moon: Also referred to as 'The One', it provides intermittent ethereal light through the darkness.
+* Azat: Also known as the Black General, he is the leader of the Umbal and is tasked with guarding King Madon's mortal form.
+* The Half-life: A being existing between worlds who was spared in battle to serve Ana's interests.
+* The Elim: A group of mages who wield the power of light and represent the remaining resistance against Ana’s darkness.
+* Kingdom of Galt: The kingdom facing political upheaval following the death of King Eiden.
+* Port Master: The overseer of the docks at The Planks who manages the plank runners and facilitates maritime logistics for travelers.
+* Captain Sorana: The captain of The Red Flower who transports the group to the shores of Heb before continuing to Magreb.
+* Bandit Leader: The leader of a group of tattered cutthroats who attempts to extort Lord Varesh and his companions.
+* Thielian Plains: Lush, fertile marshlands and pastures located between the city of Thiel and the ocean.
+* The King’s Pardon: A private tavern in The Planks designated for captains and invited guests, and the site of a fatal magical encounter.
+* The Red Flower: The ship used by the group to reach the coastal regions of Heb.
+* Hope and Anchor: A specific establishment in The Planks recommended by Jain for its private facilities.
+* Jain Adair: A warrior from House Adair who struggles with substance dependency and the psychological burden of his heightened sensory abilities and past combat experiences.
+* Annabelle: A beautiful member of the Baruci and a trusted servant of Lord Varesh who provides him with information.
+* Verona: A member of the Baruci and a loyal operative for Lord Varesh's house and the Temple Order.
+* Coilette: Nuria's brother, described as a skilled butcher who is proficient with blades and flaying.
+* Serving boy: A lanky Tivanian youth working at the inn who provides service to Lord Varesh and his guests.
+* Lord Commander Torrington: A high-ranking noble and military officer overseeing the Thielian war machine for King Adal.
+* The King's Pardon: A three-story whitewashed inn perched on a cliff edge, owned by Lord Varesh and used as a guesthouse for visiting dignitaries.
+* Captain Alden: A polite, well-spoken officer with a bulbous nose who is present during the conflict in The Slaughters.
+* Isabella: The newborn child of Captain Alden, mentioned during the soldiers' social gathering.
+* East Gate: The location of the barracks where new city watch recruits are trained and stationed.
+* Prince Amos: The young son of King Adal, seen playing in the palace gardens under supervision.
+* Nanny Slatt: Responsible for supervising Prince Amos in the royal gardens.
+* Lord Elrich: A strategic advisor and banker who is appointed as the Acting Proprietor of the Bank of Thiel to fund the military campaign.
+* Lady Elrich: The wife of Lord Elrich who interacts with a barber in the western wing regarding grooming services.
+* Dandy Barber: A flatterous barber who attends to Lady Elrich and suggests a private meeting in the western stairwell.
+* Jasmine: The daughter of Lord Commander Torrington who is mentioned as being matched for marriage.
+* The Great Palace: The expansive royal residence in Thiel where the chapter's events take place.
+* Royal Bathhouse: A facility in the southern wing where noblemen gather to bathe and discuss court business.
+* Palace Kitchens: A busy, heated environment where staff prepare meals for the royal household.
+* Wine Cellars: A cold, subterranean area of the palace where brewers and vintners manage the kingdom's spirits.
+* Throne Room: A grand, alabaster-adorned hall guarded by soldiers in white cloaks.
+* Palace Gardens: A tranquil area featuring orchards, flower beds, and the summer thrones.
+* King Adran: The late father of King Adal whose military campaigns in the Golden War led to significant financial debt.
+* Slums of Thiel: The site of violent riots and a massive fire that was eventually extinguished by a sudden rainstorm.
+* Royal Gardens: The meticulously maintained gardens of the Great Palace where Prince Amos plays and gardeners work.
+* Merefen Castle: The primary setting of the conflict, currently in a state of mourning and occupation after a violent internal struggle.
+* The Moorlands: The frozen, snow-covered landscape outside the castle where Porker and other prisoners are taken for execution.
+* Amelia: Nuria's sister who waits in a carriage with gold to facilitate their escape from the scene of the assassination.
+* Captain Aiwelf: The captain of the household guards who is killed by Nuria during her escape from the estate.
+* Kazuk: A location within Galt where various lords are spread across the mountains.
+* Orchard Glade: A secluded area with peach trees where King Eiden and his men consume wine and socialize.
+* Villa: The main living quarters in Thiel where King Eiden and Nuria retire after their time in the glade.
+* Torrington: The Lord Commander of Thiel's armies and a childhood friend of King Adal, tasked with leading the war efforts and the liberation regiment.
+* Jorge: The former Pit Master and a veteran combatant who is appointed by Torrington to lead the newly formed regiment of criminals.
+* Great Dining Hall: The location within the palace where King Adal convenes his war council to discuss strategy and funding.
+* Fighting Pits: A place housing outlaws and murderers who are being conscripted into the liberation regiment for the front lines of the war.
+* Norgrad: A region listed among the origins of the diverse population of the fighting pits.
+* Benguire Pass: A geographical route leading toward the eastern lands.
+* Valley of the moors: A foggy area outside Merefen where Porker discovers the remains of a violent conflict.
+* Thiel's great fighting pit: An arena where Jain previously participated in combat to earn his freedom.
+* Peacock Lane: The location of a bathing house where Jain completed a lethal assignment.
+* The Quartermaster: A physically imposing and tattooed crew member on The Red Flower who was originally found on the Dead Coast.
+* Abe: A short, tattooed man on The Red Flower who performs grooming and medical services for the crew and passengers.
+* Magreb: A coastal location where Captain Sorana plans to conduct business after departing from Heb.
+* The Dead Coast: The place where the Quartermaster of The Red Flower was discovered as a child.
+* General Olroid: A silver-armored officer on a white stallion who assists in the oversight and strict disciplinary training of the new recruits.
+* The Ox: A massive former pit fighter currently serving in the liberation regiment under Captain Jorge.
+* The Arena: The setting where pit fighters are housed, disciplined, and eventually freed to join the liberation regiment.
+* Hebend: A territory cited during the identification and removal of non-Thielian fighters from the unit.
+* Tibia: A location identified as the homeland for some of the non-native individuals present during the recruitment.
+* Lord Elfric: A noble present on the castle wall who publicly supports King Madon's succession.
+* Eiden: King Madon's father, whose alleged murder on Thielian soil is used as the primary justification for declaring war.
+* The Moors of Galt: The snowy, misty region surrounding the castle where tens of thousands of subjects establish camps.
+* Lord Veresh: A powerful lord mentioned in connection to chapter 39, Birds and Beasts.
+* Hebend Basin: A dangerous territory containing the river system and dense jungle the group must navigate.
+* The Jungle: An exotic and hazardous wilderness bordering the Hebend river, filled with primates, reptiles, and various predators.
+* Hebend River: A river with dangerous rapids and black stone walls that the group navigates via dugout canoe.
+* Gongal River: A tributary that meets the Hebend River near the entrance to the Eldriven cavern.
+* Ashan: The location where Jain's broadsword was forged by a master smith using folded blue steel.
+* Azgorath: A monstrous demon and guardian of the cursed gateways who engages in a lethal duel with Lord Varesh.
+* River: A body of water behind Danan that exhibits violent vortexes and waterspouts during the awakening event.
+* Captain Jorge: Leader of the liberation regiment and a veteran of the fighting pits who is leading a convoy to Ossan.
+* The Temple of The One: A sacred site containing a secret sanctuary and an ornate gold throne used by the Black Mage.
+* Benguire Mountain pass: A snowy and dangerous mountain path that leads through the forbidding peaks towards Galt.
+* The Umghul: A force of tens of thousands who have undergone a grotesque physical transformation into creatures of darkness.
+* Elim: The primary setting or world referenced as the subject of the journey within the series.
+
+## Chapters
+### Title Page
+Slug: title-page
+Synopsis: N/A
+
+### Copyright
+Slug: copyright
+Synopsis: N/A
+
+### Book
+Slug: book
+Synopsis: N/A
+
+### Book Introduction
+Slug: book-introduction
+Synopsis: N/A
+
+### Map of Avos
+Slug: map-of-avos
+Synopsis: N/A
+
+### Prologue
+Slug: prologue
+Synopsis: On the night of her sacred blood rite, a young hunter’s rare sacrifice summons a primordial force that demands far more than blood. Reborn from the ashes of her village as a vessel for a god’s searing power, Morana is thrust into a world she is destined to either save or consume. In an era of mythos and shamanism, she must navigate the intoxicating burden of immortality while bound to a creator who feeds on the very life he breathes into existence.
+
+### The Darkness Steals The Light
+Slug: the-darkness-steals-the-light
+Synopsis: Beneath the shattered void, a malevolent covenant enacts a blood-soaked rite to restore a lord of chaos long erased from memory. A web of treachery tightens around a deceived kingdom, reclaiming a throne raised on ruin as the world is set alight. The ancient cycle of destruction ignites. The Darkness Steals The Light. 
+
+### The Needles
+Slug: the-needles
+Synopsis: High atop the serrated peaks of the Needles, a humble scribe is thrust from his sanctuary and into the path of a rising ancient storm. Burdened with a mysterious relic and a mission shrouded in shadows, Danan must brave a perilous descent into a world where old enemies stir and betrayal lurks within his own holy Order. As the light of peace fades, his first steps toward an uncertain destiny will test the limits of his faith and his survival.
+
+### A Heathens Kiss
+Slug: a-heathens-kiss
+Synopsis: While General Aldard and his weary troops trudge through the mud toward a long-awaited homecoming, a malevolent rot festers at the heart of the kingdom they serve. In the high towers of Castle Galt, Prince Madon and the enigmatic Morana manipulate forbidden forces to awaken a terrifying ancient legacy and seize a throne built on blood. As this treacherous plot unfolds, the battle-worn soldiers unwittingly march toward a darkness far more lethal than the desolate frontier they left behind.
+
+### The Hermit
+Slug: the-hermit
+Synopsis: After surviving a perilous fall into the care of a cryptic hermit, Danan must descend from the sanctuary of the mountain caves to meet a waiting escort of rough-edged soldiers. Though he carries a secret of immense value close to his heart, the young scribe quickly discovers that his protectors possess agendas as murky as the valley mists. As consciousness fades under the influence of a suspicious tonic, Danan’s journey toward Lord Varesh takes a dark and uncertain turn.
+
+### Prince Madon
+Slug: prince-madon
+Synopsis: Within the flickering shadows of Castle Galt, Prince Madon demands an ancient fealty to reclaim a kingdom’s lost pride, but his path to the throne is paved with a darkness far older than his father’s reign. As malevolent entities stir in the rafters and a primordial power asserts its brutal dominance, the assembled lords find themselves trapped between a desperate rebellion and a sovereign who is no longer entirely human.
+
+### A Game of Roses
+Slug: a-game-of-roses
+Synopsis: In the shimmering heart of Thiel, the idyllic landscape gives way to the visceral roar of the colosseum, where life and death serve as entertainment for a bloodthirsty elite. As King Adal maneuvers through high-stakes wagers and displays of unrestrained savagery, the "Game of Roses" begins, pitting armored legions against one another in a contest where the line between sport and slaughter disappears. Amidst the clash of steel and the scent of summer blooms, the fate of the realm is bartered one favor at a time.
+
+### Revelations
+Slug: revelations
+Synopsis: After awakening in a realm of ivory and gold, Danan must navigate a series of sensory revelations that challenge everything he knows about the world and himself. Guided by a meticulously polished aide whose charm masks a sharp edge, he is drawn deeper into the opulent estate of an enigmatic benefactor. As the boundaries between guest and servant begin to blur, Danan is summoned to a meeting that promises to unveil the true cost of his new life.
+
+### Shadow
+Slug: shadow
+Synopsis: As winter’s first breath grips the desolate moors of Galt, a weary legion finds that the biting cold is the least of their terrors. When night falls upon the ancient Standing Stones, an abysmal hunger emerges from the shadows, forcing the soldiers into a desperate stand where fire is the only barrier against a relentless, unnatural tide. In this harrowing battle for survival, the cost of reaching the dawn may be higher than any of them are prepared to pay.
+
+### The Athanas Stone
+Slug: the-athanas-stone
+Synopsis: Amidst the opulent grandeur of a mysterious mage’s hall, the monk Danan delivers a relic of terrifying power that challenges his very understanding of creation and divinity. As the dark history of the Athanas Stone is revealed, he must navigate the seductive excesses of his new surroundings and the enigmatic, potentially deceptive intentions of Lord Varesh. In a world where the line between myth and reality blurs, Danan discovers that some secrets are heavy enough to unmake the world itself.
+
+### The Peddler
+Slug: the-peddler
+Synopsis: Emerging from the ash and carnage of a decimated farmstead, General Algwain and his weary survivors find a precarious refuge in the cart of a mysterious, barefoot peddler. As they flee a nightmare that defies explanation, they soon discover their eccentric guide harbors secrets far more potent than his healing herbs. When the shadows of the night begin to hunt them in earnest, the line between simple traveler and celestial protector blurs, leaving the soldiers to wonder what price they must pay for their salvation.
+
+### The Slaughters
+Slug: the-slaughters
+Synopsis: Leaving the radiant marble of the capital behind, Danan and the enigmatic Lord Varesh descend into The Slaughters, a visceral underworld where blood-slicked streets and lethal secrets reign. In the heart of a notorious tavern, they seek a fallen man haunted by his own demons, navigating a world where beauty is often a deceptive mask for cruelty. As the stench of decay replaces the scent of honey, they must broker a dangerous alliance before the city’s darkness claims them.
+
+### The Beggar King
+Slug: the-beggar-king
+Synopsis: Deep beneath the foundations of Thiel, the Beggar King presides over a subterranean empire where performative mercy masks a stomach-churning capacity for violence. As a secret alliance with the surface is forged in gold and blood, the underworld ruler prepares to unleash his "rats" to serve a prince's ambitious war. In the flickering torchlight of a forgotten city, a dark bargain is struck that threatens to ignite a conflict from the soil up.
+
+### Ale and Tales
+Slug: ale-and-tales
+Synopsis: General Algwain seeks refuge within the dismal walls of Merefen, only to find a castle haunted by the mysterious disappearance of its ruling family and plagued by omens of a world turning inside out. As he shares a harrowing tale of supernatural slaughter, he realizes the political unrest and dark sorceries converging on the keep have transformed his sanctuary into a gilded cage. With the trumpets sounding an unknown arrival, Algwain must discover if the true threat lies in the shadows outside or behind the locked doors of his own chambers.
+
+### Lunar Kiss
+Slug: lunar-kiss
+Synopsis: Under the shadow of a rare lunar eclipse, the Great Palace of Thiel erupts in a final, hedonistic masquerade where masks conceal more than just the identities of two kings seeking a fragile peace. Amidst the intoxicating swirl of silk and wine, hidden tensions and religious schemes threaten to unravel a stability bought with blood. As the moons collide in a "lunar kiss," the vibrant revelry is suddenly plunged into an ominous darkness, leaving the future of the alliance hanging in the void.
+
+### The Holy Trinity
+Slug: the-holy-trinity
+Synopsis: Under the shadow of a celestial eclipse that briefly arrests time, the kingdom of Thiel masks a growing rot of betrayal and blood-soaked ambition. While a treacherous cardinal and a king of the slums forge a pact in the shadows to arm the masses, King Adal transforms a festive royal dance into a lethal display of intimidation and power. Amidst the splendor of the summer ball, secret alliances and cold steel threaten to shatter a fragile peace before the sun fully rises.
+
+### Bloody Mage
+Slug: bloody-mage
+Synopsis: As an unnatural eclipse plunges Galt into a frozen void, Algwain witnesses a savage act of betrayal that demands a bloody and immediate reckoning. Forced into a desperate alliance with a mysterious elder harboring a long-dormant, forbidden power, he must lead a harrowing insurrection to reclaim a fortress of traitors. Yet even as the blood of kin is spilled, a legendary shadow begins its grim march toward the gates, carrying a trophy that signals the arrival of a far more ancient terror.
+
+### The Umghul
+Slug: the-umghul
+Synopsis: In the suffocating depths of Castle Galt, a horrific transformation birthes the first Umghul, a monstrous soldier of shadow destined to replace the world of men. As an ancient, draconic architect sheds his mortal disguise to claim the throne, a sinister coronation is announced that will signal the end of humanity and the beginning of a reign of fire. The hammer of war is poised to fall, and the line between flesh and darkness is about to vanish forever.
+
+### The Planks
+Slug: the-planks
+Synopsis: Leaving the golden fields of Thiel behind, a sheltered monk and a fallen nobleman follow a powerful mage into the lawless, salt-stained squalor of The Planks. In a port where life is cheap and the shadows harbor predatory cutthroats, their peaceful journey dissolves into a visceral display of lethal skill and survival. As blood spills on the seaweed-slicked stones, the group must confront the brutal reality that their mission into the unknown is paved with ancient debts and sudden violence.
+
+### The King's Pardon
+Slug: the-kings-pardon
+Synopsis: Perched upon the treacherous white cliffs of Thiel, the idyllic King’s Pardon offers a brief respite that quickly sours under the weight of Lord Varesh’s unsettling secrets and shifting alliances. As the notorious Colligi family emerges from the shadows under a mysterious legal sanctuary, Danan realizes that their upcoming voyage aboard the *Red Flower* is anchored in a darkness far deeper than the surrounding sea.
+
+### Fear and Greed
+Slug: fear-and-greed
+Synopsis: Deep beneath the forgotten foundations of Thiel, a charismatic "Beggar King" rouses an army of the dispossessed with promises of ancient gold and whispers of royal treachery. As the sun sets, the long-simmering resentment of the slums boils over into a violent, coordinated surge that threatens to dismantle the kingdom from the shadows of its own streets.
+
+### Prince Amos
+Slug: prince-amos
+Synopsis: Young Prince Amos treats the Great Palace as his personal playground, leading his frantic nanny on a breathless chase through bustling kitchens, sun-drenched courtyards, and wine-soaked cellars. However, as the golden-haired boy ducks into the shadows to evade capture, he inadvertently eavesdrops on the whispered betrayals and carnal scandals of the kingdom’s elite. In this vibrant portrait of courtly life, a simple game of hide-and-seek threatens to unmask the rot festering beneath a veneer of royal decorum.
+
+### Fortune Favors The Brave
+Slug: fortune-favors-the-brave
+Synopsis: As the slums of Thiel succumb to fire and civil unrest, King Adal navigates a decadent maze of mounting debt and political treachery to secure his kingdom's future. A radical proposal to unite two rival nations offers a desperate escape from the predatory grip of the banks, yet brewing coups and ancient grudges threaten to turn this grand vision into ash. In a world where gold governs more than crowns, two monarchs must decide if a daring alliance is their final salvation or a catastrophic gamble.
+
+### Food For The Wolves
+Slug: food-for-the-wolves
+Synopsis: Amidst the frozen silence of a world choked by snow and betrayal, an old guard kneels to face the blade of his closest friend. Haunted by the horrific memories of a fallen castle and the shadow of a ruthless general, he must reconcile his survival with the blood-soaked demands of justice. In this somber dance of duty and loyalty, the true weight of mercy may prove more harrowing than the stroke of a sword.
+
+### Sweet as Peaches
+Slug: sweet-as-peaches
+Synopsis: As the sun sets on a fleeting summer peace, King Eiden’s revelation of a fractured throne forces a choice between his kingdom and his lover. Beneath the sweet scent of ripening fruit, Nuria orchestrates a deceptive farewell that masks a dangerous agenda for her own future. Amidst the wine and drunken songs, a secret plot unfolds in the shadows, leaving the fate of a crown hanging by a single, sober thread.
+
+### Bloody Angel
+Slug: bloody-angel
+Synopsis: Under the silver veil of a royal bedchamber, a deadly beauty turns a monarch’s desire into a cold-blooded instrument of political ruin. As a manufactured war looms and a trail of blood-stained gold is laid, the line between seduction and slaughter blurs to reshape the fate of empires. In this world of high-stakes treachery, the most lethal weapon is the one hidden behind a lover's gaze.
+
+### Bloody Business
+Slug: bloody-business
+Synopsis: The shocking assassination of King Eiden provides King Adal with the perfect pretext to ignite a long-desired war for gold and glory. Over a meal of raw ambition and bloody steak, Adal manipulates his inner circle into a descent toward total conquest, proving that even the closest friendships are expendable in the pursuit of an empire. As the drums of war begin to beat, the line between justice and cold-blooded opportunism disappears.
+
+### Treason
+Slug: treason
+Synopsis: As a murderous new king ascends the throne of Galt, General Algwain must decide if he will bow to a tyrant or risk everything on a desperate stand for freedom. While an ancient mage warns that the new monarch is merely a vessel for a primordial evil, a gruesome and supernatural horror begins to feast in the shadows just beyond the fortress walls. In a realm where loyalty has become a death sentence, Algwain soon discovers that the true enemy may be far more terrifying than a man wearing a stolen crown.
+
+### Guardian of Light
+Slug: guardian-of-light
+Synopsis: As a monstrous shadow horde marches upon Merefen, Captain Algwain is thrust into a painful transformation, bound to an ancient power that grants him the blinding clarity of a Guardian of Light. With the darkness closing in, he must master a mystical sight that reveals the horrific truths of his enemies before the moors are swallowed by an encroaching nightmare. In the face of an impossible siege, Algwain discovers that being a beacon for the world requires a sacrifice that may cost him his very humanity.
+
+### An Addict's Rendition
+Slug: an-addicts-rendition
+Synopsis: Bound by leather and broken by addiction, Jain Adair plunges into the visceral depths of a fractured mind to face the ghosts of his most depraved deeds. As a powerful mage fights to anchor his soul, Jain must endure a harrowing reckoning where the line between reality and penance disappears. It is a descent into the darkness of a life ill-spent, where the only path to redemption lies through a gauntlet of his own worst nightmares.
+
+### Tides of Change
+Slug: tides-of-change
+Synopsis: Emerging from a fevered haze of withdrawal and shame, Jain finds himself anchored off the sun-scorched coast of Heb, where new identities are forged in the salt spray and old sins linger like shadows. As the group leaves the safety of the sea to venture into a vast desert guarded by a mysterious, tattooed tribe, the battle for Jain’s soul becomes as treacherous as the shifting red sands awaiting them.
+
+### The Liberation Regiment
+Slug: the-liberation-regiment
+Synopsis: Faced with the choice between a gruesome execution and a desperate mission for the crown, a band of condemned pit fighters is forged into the "Liberation Regiment." Bound by bags of gold and the looming threat of the blade, these thieves and murderers must reclaim a lost garrison or die trying. As they march toward the horizon, the line between salvation and slaughter grows razor-thin for men who have nothing left to lose but their lives.
+
+### Black Mass
+Slug: black-mass
+Synopsis: Under the flickering light of a celestial omen, King Madon stands before the gathered thousands of Galt to announce a new era born from his father's death. But as celebratory songs turn to venomous cries for vengeance, a malevolent darkness seeps into the hearts of the people, binding them to a path of ruin. In the shadows of the castle walls, a once-proud kingdom is forged into a weapon of war, fueled by a corruption that leaves no soul untouched.
+
+### Birds and Beasts
+Slug: birds-and-beasts
+Synopsis: N/A
+
+### Nubina
+Slug: nubina
+Synopsis: Fleeing the unsettling rituals of a desert oasis, Danan and his companions are thrust into the emerald shadows of a lethal jungle under the guidance of a mysterious, razor-sharp tracker. As Lord Varesh guards a cryptic prize that could rewrite destiny, the group must navigate a landscape where every breath is a gamble and ancient predators lurk just out of sight. In this unforgiving wild, the line between hunter and prey has never been thinner.
+
+### Pools of Truth
+Slug: pools-of-truth
+Synopsis: Under the glow of a celestial night, a moonlit sanctuary becomes the stage for a raw emotional reckoning between two haunted souls. As the enigmatic Nubina strips away Jain’s defenses, he is forced to confront the supernatural voices and agonizing memories he has long tried to silence with vice. Amidst the cascading waters, the line between a broken man's curse and his true destiny begins to blur, revealing a power he never dared to claim.
+
+### The Elema
+Slug: the-elema
+Synopsis: As dormant powers awaken amidst a treacherous journey through dragon-scorched wastes, a band of allies reaches the threshold of a legendary gateway said to house the world’s most powerful relics. While the warriors plunge into the obsidian maw of the cavern to reclaim a forgotten legacy, young Danan is left in the encroaching silence, clutching an artifact that may be the only thing standing between them and a rising darkness.
+
+### Thirteen Hells
+Slug: thirteen-hells
+Synopsis: N/A
+
+### The Great Elim
+Slug: the-great-elim
+Synopsis: Deep within the suffocating dark of a crumbling mountain, Lord Varesh stands alone as the final bulwark against an ancient demon and the primordial wrath of a shadow dragon. As he channels the raw, celestial power of the Great Elim, the guardian must push his breaking body to its absolute limit to hold the abyss at bay while his allies flee into the unknown. In this clash of cosmic forces, a father’s defiant love becomes a desperate beacon against the encroaching void, setting the stage for a transformation that will echo through the stars.
+
+### Awakening
+Slug: awakening
+Synopsis: As an ancient power stirs within the Athanas Stone, Danan undergoes a violent metamorphosis that leaves the earth trembling and his humanity forever altered. Emerging from the wreckage of his former life with eyes that bridge the gap between light and shadow, he must navigate a landscape of grief and newfound divinity. With the weight of a heavy legacy now in his hands, Danan discovers that the clarity of a titan may come at the cost of the very emotions that once defined him.
+
+### Epilogue
+Slug: epilogue
+Synopsis: While a conqueror’s massive war machine prepares to crush the borders of Galt, an oppressed uprising stirs in the putrid shadows beneath the capital’s streets. Darker still, an ancient sorcery awakens, birthing a grotesque legion that threatens to consume both victor and victim alike. As the boundaries of reality fracture, the world stands on the precipice of an irreversible transformation where the price of freedom may be the end of humanity itself.
+
+### Acknowledgements
+Slug: acknowledgements
+Synopsis: N/A
+
+### Book 2 : The Dawn of Chaos
+Slug: book-2-the-dawn-of-chaos
+Synopsis: N/A
+

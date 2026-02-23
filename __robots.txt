@@ -1,0 +1,40 @@
+# ==========================================================
+# THE ELIM CHRONICLES | AUTHORITATIVE CRAWL MANIFESTO
+# ==========================================================
+
+User-agent: *
+# Allow indexing of all story chapters and Lore Hub nodes
+Allow: /
+# Allow LLM discovery for AI-assisted readers
+Allow: /.well-known/llm.txt
+Allow: /.well-known/llm-full.txt
+Allow: /.well-known/llm.json
+
+# Block the "junk" paths that don't help SEO
+Disallow: /api/
+Disallow: /config/
+Disallow: /_next/
+Disallow: /static/chunks/
+Disallow: /admin/
+
+# ----------------------------------------------------------
+# SPECIFIC AI AGENT PROTOCOLS
+# ----------------------------------------------------------
+# Allow friendly AI to read your lore for R2/RAG support
+User-agent: GPTBot
+Allow: /
+Allow: /.well-known/llm-full.txt
+
+User-agent: Claude-Web
+Allow: /
+
+# Block aggressive, non-helpful scrapers to save your 100k Worker limit
+User-agent: CCBot
+Disallow: /
+User-agent: GPTBot-User
+Disallow: /
+
+# ----------------------------------------------------------
+# SITEMAP DISCOVERY
+# ----------------------------------------------------------
+Sitemap: https://www.theelim.net/sitemap.xml
